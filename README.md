@@ -18,7 +18,6 @@ iii)Data Recovery and Backups
 After 4 years of long research AWS launched on March 19, 2006, AWS offered Simple Storage Service (S3) and Elastic Compute Cloud (EC2), with Simple Queue Service (SQS) following before long. By 2009, S3 and EC2 were dispatched in Europe, the Elastic Block Store (EBS) was unveiled, and a ground-breaking content conveyance organization (CDN), Amazon CloudFront, all became formal pieces of AWS offering. These engineer neighborly administrations pulled in cloud-prepared clients and put everything out on the table for formalized associations with data-hungry enterprises, for example, Dropbox, Netflix, and Reddit, all before 2010.
 
 So there is a huge scope of making a career in AWS.I believe that Foundation is very important to learn any technology
-<a href="https://intellipaat.com/microsoft-azure-training-bangalore/">Azure Bangalore</a>
 
 # How AWS changed my career
 
