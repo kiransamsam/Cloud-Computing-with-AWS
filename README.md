@@ -28,7 +28,7 @@ So I changed my mind and decided to make my career in Data Science
 The intial thought came to my mind is that I should built my foundation skills in AWS so taken <a href="https://intellipaat.com/aws-technical-essentials-training//">AWS Technical Essentials Certification Training</a>
 I have clered it in my first attempt after having 5-6 months of training.
 This certification exam helpmed me to get good job in AWS domain
-But the exictment inside me doesn't stop after working around 1.5 years as AWS Architect made my mind to appear <a href="https://intellipaat.com/aws-certified-solutions-architect-professional-training/">AWS Solutions Architect Professional Certification</a> exam
+But the exictment inside me doesn't stop after working around 1.5 years as AWS Architect made my mind to appear for AWS Solutions Architect Professional Certification exam.
 
 Recceived lot of queries how I have entered in AWS domain so i have written this
 
